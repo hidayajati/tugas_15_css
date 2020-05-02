@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+}
+
+.container {
+  height: 150px;
+  display: flex;
+}
+
+.box {
+  padding: 30px;
+  width: 200px;
+  color: white;
+  font-size: 1.5em;
+  font-family: arial, serif, sans-serif;
+  text-align: center;
+  text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+.satu {
+  background-color: #1dd0ad;
+  align-self: flex-end;
+}
+
+.dua {
+  background-color: #2fcc7d;
+  align-self: flex-start;
+}
+
+.tiga {
+  background-color: #3498db;
+  align-self: flex-end;
+}
+
+.empat {
+  background-color: #c066ff;
+  align-self: flex-start;
+}
+
+.lima {
+  background-color: #363766;
+  align-self: flex-end;
+}
+
+.enam {
+  background-color: #f1ef00;
+  align-self: flex-start;
+}
+
+.tujuh {
+  background-color: #f9940f;
+  align-self: flex-end;
+}
+
+.delapan {
+  background-color: #f40f0f;
+  align-self: flex-start;
+}
+
+.sembilan {
+  background-color: #b0aab0;
+  align-self: flex-end;
+}
+
+.sepuluh {
+  background-color: #626a65;
+  align-self: flex-start;
+}
